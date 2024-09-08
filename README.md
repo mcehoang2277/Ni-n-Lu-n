@@ -10,7 +10,7 @@
 ### How to run
 
 - Install php and composer on your device
-- Install mongodb driver from this [link](https://github.com/mongodb/mongo-php-driver)
+- Install mongodb driver 
 - Clone this repo
 - Run `composer install`
 - Run `npm install`
